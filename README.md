@@ -1,0 +1,1 @@
+你可以參加KAGGLE的NLP with Disaster Tweets比賽來獲取資料
